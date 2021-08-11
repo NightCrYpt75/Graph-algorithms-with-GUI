@@ -3,3 +3,5 @@ This is a Algorithms visualizer project build with an intent to help understandi
 REQUIREMENTS to run:
 1)python 
 2)pygame module
+
+TO start the Project run:MENU FOR ALGORITHMS
